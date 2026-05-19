@@ -1,6 +1,8 @@
 # splynx_ticket_map
 Displays a map of Splynx tickets with tools to help organise and despatch agents
 
+This repo has been superceded by https://github.com/scracha/splynx-service-tools
+
 ![Alt text](/1.jpg?raw=true "Filters_screenshot")
 ![Alt text](/2.jpg?raw=true "Selection_screenshot")
 ![Alt text](/3.jpg?raw=true "Directions_screenshot")
